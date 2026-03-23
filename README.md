@@ -56,13 +56,19 @@ The server will start on `http://localhost:8080`.
 
 ## Screenshots
 
-### 1. Get All Students
+### 1. Spring Boot Startup
+![Spring Boot Startup](./screenshots/spring_boot_started.png)
+
+### 2. Add Student (POST)
+![Add Student](./screenshots/add_student.png)
+
+### 3. Get All Students
 ![Get All Students](./screenshots/get_all_students.png)
 
-### 2. Get Student by ID
+### 4. Get Student by ID
 ![Get Student by ID](./screenshots/get_student_by_id.png)
 
-### 3. Delete Student
+### 5. Delete Student
 ![Delete Student](./screenshots/delete_student.png)
 
 ## Project Structure
