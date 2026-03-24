@@ -43,6 +43,7 @@ The server will start on `http://localhost:8080`.
 | **GET** | `/api/students` | Get all students |
 | **GET** | `/api/students/{id}` | Get student by ID |
 | **POST** | `/api/students` | Add a new student |
+| **PUT** | `/api/students/{id}` | Update a student |
 | **DELETE** | `/api/students/{id}` | Delete a student |
 
 ### Sample JSON Request (POST)
@@ -68,7 +69,10 @@ The server will start on `http://localhost:8080`.
 ### 4. Get Student by ID
 ![Get Student by ID](./screenshots/get_student_by_id.png)
 
-### 5. Delete Student
+### 5. Update Student (PUT)
+![Update Student](./screenshots/update_student.png)
+
+### 6. Delete Student
 ![Delete Student](./screenshots/delete_student.png)
 
 ## Project Structure
